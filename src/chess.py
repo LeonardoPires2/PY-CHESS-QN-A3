@@ -4,6 +4,7 @@ from src.board import Board
 from src.color import Color
 from src.terminal import T_FRED, T_RESET
 
+#wwbuibfuw
 
 class Chess:
 
